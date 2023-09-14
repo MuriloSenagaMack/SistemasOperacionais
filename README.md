@@ -1,3 +1,3 @@
-# SistemasOperacionai
+# SistemasOperacionais
 
-Murilo Kenichiro Senaga - 42127785s
+Murilo Kenichiro Senaga - 42127785
