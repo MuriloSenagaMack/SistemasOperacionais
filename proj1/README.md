@@ -21,11 +21,11 @@ Para executar o programa, use o seguinte comando:
 ![Imagem1](imgs/img1.png)
 
 3. A conta from não pode enviar dinheiro se não tiver mais saldo:  
-![Imagem1](imgs/img1.png)
+![Imagem1](imgs/img2.png)
 
 4. A conta to pode trocar de ordem com a conta from, ou seja, a conta que enviava pode receber e a conta que recebia pode enviar:  
 Não foi possivel atingir o requisito 4 do problema.
 
 5. Poderão ser realizadas até 100 transações simultâneas de transferência:  
-![Imagem1](imgs/img1.png)
+![Imagem1](imgs/img3.png)
 
