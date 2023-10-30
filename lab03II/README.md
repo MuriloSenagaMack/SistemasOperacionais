@@ -5,5 +5,5 @@ a) Na solução utilizando Mutex, o que mudou é que agora uma única thread tem
 b) Os valores atingidos nao houveram divergencias.
 
 # Logs de execução:
-![imagem](/img.png)
+![imagem](img.png)
 
